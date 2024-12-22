@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Vadj_4 Pin=IC1-7
+Removed Pin From Net: NetName=Vadj_3 Pin=IC1-8
+Removed Pin From Net: NetName=Vadj_2 Pin=IC1-9
+Removed Pin From Net: NetName=Vadj_1 Pin=IC1-10
+Added Pin To Net: NetName=Vadj_1 Pin=IC1-7
+Added Pin To Net: NetName=Vadj_2 Pin=IC1-8
+Added Pin To Net: NetName=Vadj_3 Pin=IC1-9
+Added Pin To Net: NetName=Vadj_4 Pin=IC1-10
+Added Member To Class: ClassName=Sheet1 Member=Component Q4 BC846S,115
+Added Member To Class: ClassName=Sheet1 Member=Component Q11 BC846S,115

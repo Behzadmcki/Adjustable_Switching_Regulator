@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=P2-1
+Removed Pin From Net: NetName=SCL Pin=P2-3
+Added Pin To Net: NetName=SCL Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-3
+Change Net Color : Old Net Color=RGB(153, 0, 255) New Net Color=Blue
+Added Member To Class: ClassName=Sheet1 Member=Component C10 100nF

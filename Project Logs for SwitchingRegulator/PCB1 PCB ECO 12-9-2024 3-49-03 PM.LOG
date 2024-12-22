@@ -1,0 +1,32 @@
+Change Component Footprint: Designator=R? Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R? Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R? Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R? Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R? Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R? Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R? Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R? Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=B1_En_BJT Pin=R?-2
+Added Pin To Net: NetName=B2_En_BJT Pin=R?-2
+Added Pin To Net: NetName=B3_En_BJT Pin=R?-2
+Added Pin To Net: NetName=B4_En_BJT Pin=R?-2
+Added Pin To Net: NetName=Power Supply EN Pin=R?-1
+Added Pin To Net: NetName=Power Supply EN Pin=R?-1
+Added Pin To Net: NetName=Power Supply EN Pin=R?-1
+Added Pin To Net: NetName=Power Supply EN Pin=R?-1
+Added Pin To Net: NetName=Power Supply EN Pin=R?-2
+Added Pin To Net: NetName=Power Supply EN Pin=R?-2
+Added Pin To Net: NetName=Power Supply EN Pin=R?-2
+Added Pin To Net: NetName=Power Supply EN Pin=R?-2
+Added Net: Name=Power Supply EN
+Added Member To Class: ClassName=Sheet1 Member=Component R? 4K7R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 2k2R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 2k2R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 4K7R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 4K7R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 2k2R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 2k2R

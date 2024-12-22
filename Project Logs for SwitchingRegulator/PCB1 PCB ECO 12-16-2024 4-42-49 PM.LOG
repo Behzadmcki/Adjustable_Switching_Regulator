@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=Vadj_1 Pin=IC2-7
+Removed Pin From Net: NetName=Vadj_2 Pin=IC2-8
+Removed Pin From Net: NetName=Vadj_3 Pin=IC2-9
+Removed Pin From Net: NetName=Vadj_4 Pin=IC2-10
+Added Pin To Net: NetName=Vadj_2 Pin=IC2-7
+Added Pin To Net: NetName=Vadj_1 Pin=IC2-8
+Added Pin To Net: NetName=Vadj_4 Pin=IC2-9
+Added Pin To Net: NetName=Vadj_3 Pin=IC2-10
+Added Member To Class: ClassName=U_clusterPlusOpamp Member=Component Q18 BC846S,115

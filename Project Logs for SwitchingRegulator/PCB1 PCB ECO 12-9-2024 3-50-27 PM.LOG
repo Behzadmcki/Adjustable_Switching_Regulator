@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Net Name : Old Net Name=Power Supply EN New Net Name=P_EN
+Added Member To Class: ClassName=Sheet1 Member=Component R4 4K7R
+Added Member To Class: ClassName=Sheet1 Member=Component R8 2k2R
+Added Member To Class: ClassName=Sheet1 Member=Component R9 4K7R
+Added Member To Class: ClassName=Sheet1 Member=Component R10 2k2R
+Added Member To Class: ClassName=Sheet1 Member=Component R22 2k2R
+Added Member To Class: ClassName=Sheet1 Member=Component R23 4K7R
+Added Member To Class: ClassName=Sheet1 Member=Component R24 2k2R

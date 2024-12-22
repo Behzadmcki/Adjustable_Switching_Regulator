@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=+42 Pin=C54-2
+Removed Pin From Net: NetName=+42 Pin=C55-2
+Removed Pin From Net: NetName=+42 Pin=C56-2
+Removed Pin From Net: NetName=+42 Pin=C57-1
+Removed Pin From Net: NetName=+42 Pin=C58-1
+Removed Pin From Net: NetName=+5 Pin=C59-1
+Removed Pin From Net: NetName=GND Pin=C60-1
+Removed Pin From Net: NetName=+5 Pin=C60-2
+Removed Pin From Net: NetName=GND Pin=C61-1
+Removed Pin From Net: NetName=+5 Pin=C61-2
+Removed Pin From Net: NetName=GND Pin=D5-1
+Removed Pin From Net: NetName=+5 Pin=L5-2
+Removed Pin From Net: NetName=+42 Pin=R54-1
+Removed Pin From Net: NetName=+42 Pin=R55-2
+Removed Pin From Net: NetName=+42 Pin=R56-2
+Removed Pin From Net: NetName=+5 Pin=R57-2
+Removed Pin From Net: NetName=GND Pin=R60-1
+Removed Pin From Net: NetName=GND Pin=U6-4
+Removed Pin From Net: NetName=+42 Pin=U6-8
+Removed Pin From Net: NetName=GND Pin=U6-9
+Removed Member From Class: ClassName=Sheet1 Member=C54
+Removed Member From Class: ClassName=Sheet1 Member=C55
+Removed Member From Class: ClassName=Sheet1 Member=C56
+Removed Member From Class: ClassName=Sheet1 Member=C57
+Removed Member From Class: ClassName=Sheet1 Member=C58
+Removed Member From Class: ClassName=Sheet1 Member=C59
+Removed Member From Class: ClassName=Sheet1 Member=C60
+Removed Member From Class: ClassName=Sheet1 Member=C61
+Removed Member From Class: ClassName=Sheet1 Member=C62
+Removed Member From Class: ClassName=Sheet1 Member=D5
+Removed Member From Class: ClassName=Sheet1 Member=L5
+Removed Member From Class: ClassName=Sheet1 Member=Q15
+Removed Member From Class: ClassName=Sheet1 Member=R54
+Removed Member From Class: ClassName=Sheet1 Member=R55
+Removed Member From Class: ClassName=Sheet1 Member=R56
+Removed Member From Class: ClassName=Sheet1 Member=R57
+Removed Member From Class: ClassName=Sheet1 Member=R58
+Removed Member From Class: ClassName=Sheet1 Member=R59
+Removed Member From Class: ClassName=Sheet1 Member=R60
+Removed Member From Class: ClassName=Sheet1 Member=U6
+Added Component: Designator=P?(61202021621)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation"; Value = "Insulated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "33.06mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "8917785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "33.06mm"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component P? 61202021621

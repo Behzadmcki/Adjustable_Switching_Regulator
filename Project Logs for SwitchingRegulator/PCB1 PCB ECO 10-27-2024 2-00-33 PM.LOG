@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=SLLB1 Old Footprint=691322310003 New Footprint=691322310003
+Change Component Footprint: Designator=PWR1 Old Footprint=691322310004 New Footprint=691322310004
+Change Component Footprint: Designator=R3 Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R4 Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R6 Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R8 Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R9 Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R10 Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R11 Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R13 Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=L1 Old Footprint=WE-SPC_4838 New Footprint=WE-SPC_4838
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=R14-2

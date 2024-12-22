@@ -1,0 +1,33 @@
+Change Component Footprint: Designator=P2 Old Footprint=61202021621 New Footprint=61202021621
+Change Component Footprint: Designator=R35A Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R35B Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R35C Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R35D Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R36A Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R36B Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R36C Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R36D Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R48A Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R48B Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R48C Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R48D Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R49A Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R49B Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R49C Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R49D Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R50A Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R50B Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R50C Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R50D Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R54A Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R54B Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R54C Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=R54D Old Footprint=FP-RC0402-0_4-MFG New Footprint=FP-RC0402-0_4-MFG
+Change Component Footprint: Designator=L5A Old Footprint=WE-SPC_4838 New Footprint=WE-SPC_4838
+Change Component Footprint: Designator=L5B Old Footprint=WE-SPC_4838 New Footprint=WE-SPC_4838
+Change Component Footprint: Designator=L5C Old Footprint=WE-SPC_4838 New Footprint=WE-SPC_4838
+Change Component Footprint: Designator=L5D Old Footprint=WE-SPC_4838 New Footprint=WE-SPC_4838
+Added Room: Name=SWReg1
+Added Room: Name=SWReg2
+Added Room: Name=SWReg3
+Added Room: Name=SWReg4

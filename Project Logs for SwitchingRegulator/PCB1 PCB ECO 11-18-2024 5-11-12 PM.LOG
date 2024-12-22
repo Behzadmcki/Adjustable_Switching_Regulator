@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P? Old Footprint=691322310005 New Footprint=691322310005
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=SLLB1 NewDesignator=P2
+Added Member To Class: ClassName=Sheet1 Member=Component P1 691322310005
